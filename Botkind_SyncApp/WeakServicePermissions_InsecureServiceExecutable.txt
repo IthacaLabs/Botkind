@@ -1,0 +1,4 @@
+Weak Service Permissions / Insecure Service Executable
+------------------------------------------------------
+
+Botkind SyncApp version 19.0.3.0 running service named "BotKindSyncService" with system user privilege on Windows that has weak service permissions. Successful exploitation would allow a standard user/domain user to elevate to administrator privilege and/or perform persistence attack upon successfully overwritting/replacing the affected executable.
